@@ -1,0 +1,22 @@
+| Day                 | Member 1 (Frontend/UI)                                                 | Member 2 (Backend/Simulation)                                          |
+| ------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| **Day 1 (Oct 1)**   | Set up project folder structure, VS Code, Bootstrap                    | Install Python, Flask, set up backend folder                           |
+| **Day 2**           | Design basic **chat/product selection UI** (HTML/CSS)                  | Create mock JSON files: customers, products, inventory, promotions     |
+| **Day 3**           | Implement **product display grid/cards**                               | Start writing Python scripts for **Recommendation Agent** (rule-based) |
+| **Day 4**           | Add **buttons for Add to Cart, Checkout**                              | Write **Inventory Agent API** (check stock availability)               |
+| **Day 5**           | Connect **UI to JSON data** for products                               | Write **Loyalty & Offers Agent** (apply discounts/loyalty points)      |
+| **Day 6**           | Style UI with **Bootstrap**; add responsive design                     | Write **Payment Agent API** (simulate payment success/failure)         |
+| **Day 7**           | Add **mock chat messages** to simulate Sales Agent                     | Write **Post-Purchase Agent** (order confirmation & tracking)          |
+| **Day 8**           | Create **channel switch simulation** (mobile → kiosk page)             | Ensure session continuity logic (cart persistence across channels)     |
+| **Day 9**           | Capture **prototype screenshots** for PPT                              | Test all Worker Agent APIs with sample customer IDs                    |
+| **Day 10**          | Refine UI: color, layout, icons                                        | Debug API responses, ensure workflow is consistent                     |
+| **Day 11**          | Start drafting **Slide 1 & 2** (Title, Objective, Problem Statement)   | Draft **Slide 3 diagram**: Sales Agent + Worker Agents                 |
+| **Day 12**          | Create **Slide 4 visuals**: customer journey example (use screenshots) | Ensure APIs produce data matching the customer journey in Slide 4      |
+| **Day 13**          | Start Slide 5 content: key features & edge cases                       | Validate edge cases: payment fail, out-of-stock, order modification    |
+| **Day 14**          | Refine all slides’ text for clarity                                    | Add mock workflow notes to slides                                      |
+| **Day 15**          | Review prototype screenshots & annotate if needed                      | Test final API workflow end-to-end                                     |
+| **Day 16**          | Incorporate **icons, arrows, flow diagrams** in PPT                    | Help create visual diagram consistency for PPT                         |
+| **Day 17**          | Finalize Slide 1 & 2 visuals                                           | Finalize Slide 3 & 4 diagrams                                          |
+| **Day 18**          | Finalize Slide 5 & all annotations                                     | Review all edge cases and confirm consistency with slides              |
+| **Day 19**          | Proofread and review entire PPT                                        | Proofread and review entire PPT                                        |
+| **Day 20 (Oct 19)** | Submit PPT **before 23:59 PM**                                         | Submit PPT **before 23:59 PM**                                         |
